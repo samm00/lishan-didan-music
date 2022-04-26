@@ -1,4 +1,6 @@
-
+p {
+  font-size: 115%;
+}
 
 @font-face {
   font-family: 'Rashi SemiBold';
@@ -49,6 +51,6 @@ a:hover.text-half-muted {
 }
 
 .card-header {
-  background-color: #f8f5f0;
+  background-color: #f3f2f0;
   border: none;
 }
