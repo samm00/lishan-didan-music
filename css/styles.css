@@ -1,0 +1,54 @@
+
+
+@font-face {
+  font-family: 'Rashi SemiBold';
+  src: url('../fonts/NotoRashiHebrew-SemiBold.ttf')
+}
+
+@font-face {
+  font-family: 'Rashi Bold';
+  src: url('../fonts/NotoRashiHebrew-Bold.ttf')
+}
+
+@font-face {
+  font-family: 'Rashi Black';
+  src: url('../fonts/NotoRashiHebrew-Black.ttf')
+}
+
+.rashi-b {
+  font-family: 'Rashi Bold';
+}
+
+.rashi-bl {
+  font-family: 'Rashi Black';
+}
+
+#top {
+  padding: calc(10px + 1%);
+  background-color: #8e8c84;
+}
+
+.text-half-muted {
+  color: #52514a;
+}
+
+a {
+  color: #8e8c84;
+}
+
+a:hover {
+  color: #98978b;
+}
+
+a:hover.text-half-muted {
+  color: #62615a
+}
+
+.spacer {
+  padding: calc(10px + 1%);
+}
+
+.card-header {
+  background-color: #f8f5f0;
+  border: none;
+}
