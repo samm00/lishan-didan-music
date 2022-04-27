@@ -54,3 +54,7 @@ a:hover.text-half-muted {
   background-color: #f3f2f0;
   border: none;
 }
+
+.segolta {
+  margin-left: -10px;
+}
