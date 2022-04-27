@@ -25,6 +25,10 @@ p {
   font-family: 'Rashi Black';
 }
 
+.lyr {
+  font-size: 120%;
+}
+
 #top {
   padding: calc(10px + 1%);
   background-color: #8e8c84;
@@ -76,4 +80,9 @@ a:hover.text-half-muted {
 
 video {
   aspect-ratio: 16 / 9;
+}
+
+.accordion-collapse {
+  height: 150px; 
+  overflow: scroll;
 }
