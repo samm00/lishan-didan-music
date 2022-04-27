@@ -34,6 +34,10 @@ p {
   color: #52514a;
 }
 
+.text-small {
+  font-size: small;
+}
+
 a {
   color: #8e8c84;
 }
@@ -55,6 +59,17 @@ a:hover.text-half-muted {
   border: none;
 }
 
+.btn-light {
+  background-color: #f3f2f0;
+}
+
 .segolta {
   margin-left: -10px;
+}
+
+#all-songs {
+  text-align: center; 
+  position: fixed; 
+  right: 2vw; 
+  bottom: 2vw;
 }
