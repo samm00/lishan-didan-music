@@ -73,3 +73,7 @@ a:hover.text-half-muted {
   right: 2vw; 
   bottom: 2vw;
 }
+
+video {
+  aspect-ratio: 16 / 9;
+}
