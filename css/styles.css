@@ -29,7 +29,7 @@ p {
   font-size: 120%;
 }
 
-#top {
+#top, #bottom{
   padding: calc(10px + 1%);
   background-color: #8e8c84;
 }
@@ -80,7 +80,7 @@ a:hover.text-half-muted {
 
 video {
   aspect-ratio: 16 / 9;
-  width: max(300px, 100%);
+  width: 300px;
 }
 
 .accordion-collapse {
