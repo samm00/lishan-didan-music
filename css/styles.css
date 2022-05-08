@@ -80,6 +80,7 @@ a:hover.text-half-muted {
 
 video {
   aspect-ratio: 16 / 9;
+  width: max(300px, 100%);
 }
 
 .accordion-collapse {
@@ -89,4 +90,4 @@ video {
 
 ::-webkit-scrollbar-corner {
   background-color: #fff;
-  }
+}
