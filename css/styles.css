@@ -29,9 +29,14 @@ p {
   font-size: 120%;
 }
 
-#top, #bottom{
+#top {
   padding: calc(10px + 1%);
   background-color: #8e8c84;
+}
+
+#bottom {
+  padding: 1%;
+  background-color: #f3f2f0;
 }
 
 .text-half-muted {
