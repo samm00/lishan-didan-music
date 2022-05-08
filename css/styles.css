@@ -43,6 +43,10 @@ p {
   color: #52514a;
 }
 
+.text-extra-muted {
+  color: #aeaca4;
+}
+
 .text-small {
   font-size: small;
 }
