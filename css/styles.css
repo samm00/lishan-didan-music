@@ -102,7 +102,5 @@ video {
 }
 
 html {
-  -moz-transform: scale(1.25);
-  -webkit-transform: scale(1.25);
-  transform: scale(1.25);
+  zoom: 125%;
 }
