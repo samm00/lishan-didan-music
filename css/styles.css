@@ -101,13 +101,8 @@ video {
   background-color: #fff;
 }
 
-@media (hover: none) {
-  * {
-    transform: scale(1.5, 1.5);
-  }    
-}
-
-.zoom
-{
-    zoom: 120%;
+html {
+  -moz-transform: scale(0.8);
+  -webkit-transform: scale(0.8);
+  transform: scale(0.8);
 }
